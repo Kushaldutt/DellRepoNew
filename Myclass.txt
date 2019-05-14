@@ -1,0 +1,5 @@
+public MyClass{
+                    main(){
+                      Static (args[]);
+ }
+}

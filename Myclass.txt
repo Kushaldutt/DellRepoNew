@@ -1,4 +1,8 @@
 public MyClass{
+
+                void display(){
+                             }
+
                     main(){
                       Static (args[]);
  }
